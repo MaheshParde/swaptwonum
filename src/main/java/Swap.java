@@ -1,8 +1,8 @@
 public class Swap {
     public static void main(String[] args) {
 
-        int a = 10, b = 20,c,d,e;
-        int x
+        int a = 10, b = 20;
+        String y
         System.out.println("--Before swap--");
         System.out.println("First number = " + a);
         System.out.println("Second number = " + b);
@@ -15,8 +15,6 @@ public class Swap {
         System.out.println("First number = " + a);
         System.out.println("Second number = " + b);
 
-        EntityManager pm = getEM();
-        TypedQuery q = em.createQuery(String.format("select * from Users where name = %s",username),UserEntity.class);
-        UserEntity res = q.getSingleResult();
+
     }
 }

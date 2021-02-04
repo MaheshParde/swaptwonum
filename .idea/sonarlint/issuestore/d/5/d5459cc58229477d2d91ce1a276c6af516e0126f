@@ -1,0 +1,15 @@
+
+0
+java:S1220""Move this file to a named package.
+5
+java:S1659"Declare "b" on a separate line.(™íï
+5
+java:S1659"Declare "c" on a separate line.(™íï
+N	java:S106"9Replace this use of System.out or System.err by a logger.(®ñ·§
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öÈÀêøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ç´ñ”ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ü¨Ó¡
+S	java:S106"9Replace this use of System.out or System.err by a logger.(öÈÀêøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ç´ñ”ûÿÿÿÿ
+<
+java:S1481"&Remove this unused "c" local variable.(™íï

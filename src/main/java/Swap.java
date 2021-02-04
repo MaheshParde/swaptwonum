@@ -1,7 +1,7 @@
 public class Swap {
     public static void main(String[] args) {
 
-        int a = 10, b = 20,c;
+        int a = 10, b = 20,c,d;
 
         System.out.println("--Before swap--");
         System.out.println("First number = " + a);

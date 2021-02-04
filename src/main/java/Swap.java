@@ -14,5 +14,9 @@ public class Swap {
         System.out.println("--After swap--");
         System.out.println("First number = " + a);
         System.out.println("Second number = " + b);
+
+        EntityManager pm = getEM();
+        TypedQuery q = em.createQuery(String.format("select * from Users where name = %s",username),UserEntity.class);
+        UserEntity res = q.getSingleResult();
     }
 }
